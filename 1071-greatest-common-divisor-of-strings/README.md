@@ -1,5 +1,10 @@
 # 1071. Greatest Common Divisor of Strings
 - https://leetcode.com/problems/greatest-common-divisor-of-strings
+- Difficulty: <font color="lightgreen">EASY</font>
+- Topics: `Senior` `Math` `String` `Weekly Contest 139`
+- From [Leetcode 75](https://leetcode.com/studyplan/leetcode-75)
+
+I got my shit beat up, although the solution was trivial 🤯
 
 ### Solution $O(n^2)$
 The solution is based on no clever assumptions, although one optimisation.  
