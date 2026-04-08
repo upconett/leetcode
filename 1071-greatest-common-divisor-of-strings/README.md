@@ -1,6 +1,6 @@
 # 1071. Greatest Common Divisor of Strings
 - https://leetcode.com/problems/greatest-common-divisor-of-strings
-- Difficulty: <font color="lightgreen">EASY</font>
+- Difficulty: 🟩 EASY
 - Topics: `Senior` `Math` `String` `Weekly Contest 139`
 - From [Leetcode 75](https://leetcode.com/studyplan/leetcode-75)
 

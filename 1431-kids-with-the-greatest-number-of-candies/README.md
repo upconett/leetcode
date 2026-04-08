@@ -1,6 +1,6 @@
 # 1431. Kids With the Greatest Number of Candies
 - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
-- Difficulty: <font color="lightgreen">EASY</font>
+- Difficulty: 🟩 EASY
 - Topics: `Mid Level` `Array` `Biweekly Contest 25`
 - From [Leetcode 75](https://leetcode.com/studyplan/leetcode-75)
 
