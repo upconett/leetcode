@@ -6,7 +6,7 @@
 
 I got my shit beat up, although the solution was trivial 🤯
 
-### Solution $O(n^2)$
+### Solution $O(n^2)$ [🔗](./O(n**2).py)
 The solution is based on no clever assumptions, although one optimisation.  
 My chain of thoughts:
 1. There should be a way to check if a substring is a divisor for another string
@@ -15,11 +15,10 @@ My chain of thoughts:
 3. Then I should get the maximum length divisor from all of the filtered ones
 
 
-### Solution $O(1)$
+### Solution $O(1)$ [🔗](./O(1).py)
 I believe that the solution is routhly in that complexity, but may be mistaken due to `gcd` method.  
 The idea of the solution:
 - The strings have common divisor if their contatenations are equal not matter the order of concatenation (e.g. `str1+str2 == str2+str1`)
 - The greatest common divisor of these strings then is the substring of concatenation of length `gcd(len(str1), len(str2))`
 
 It is a very neat trick, pity I did not see it >:(
-

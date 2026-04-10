@@ -3,7 +3,7 @@
 - Difficulty: 🟩 EASY
 - Topics: `Mid Level` `Array` `Matrix` `Weekly Contest 217`
 
-### Solution $O(n)$
+### Solution $O(n)$ [🔗](./O(n).py)
 Solution requires to compute the sum of account money across all banks and save the largest result of the computation
 
 For each `account` in given `accounts` list, we need to compute the `sum(account)`, store the result in `wealth` variable and compare it to `max_wealth`.  

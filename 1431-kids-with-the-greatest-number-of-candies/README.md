@@ -6,7 +6,7 @@
 
 Well, after the [1071.](https://github.com/upconett/leetcode/tree/main/1071-greatest-common-divisor-of-strings) I was kinda disappointed
 
-### Solution $O(n)$
+### Solution $O(n)$ [🔗](./O(n).py)
 No clever trick required:
 - We just store the `maximum` number of candies from initial list
 - Then build a new list iterating over the initial one (with `i` index):

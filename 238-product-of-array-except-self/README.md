@@ -4,11 +4,11 @@
 - Topics: `Array` `Prefix Sum`
 - From [Leetcode 75](https://leetcode.com/studyplan/leetcode-75)
 
-### Solution $O(n^2)$ (failed due to time limit)
+### Solution $O(n^2)$ [🔗](./O(n**2)_fail.py) (failed due to time limit)
 - My first shot was straitforward, I've just multiplied everything out
 - The answer should have been correct, but the algorithm is unoptimized, which I understand
 
-### Solution $O(n)$
+### Solution $O(n)$ [🔗](./O(n).py)
 That's working, and I love it (cause looking clean)  
 The idea is, I'm precomputing the multiplications in a separate lists, then to reause the results
 

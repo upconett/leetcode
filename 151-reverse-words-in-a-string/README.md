@@ -6,7 +6,7 @@
 
 That's dead simple, I don't even know why it is a **Medium** one
 
-### Solution $O(n)$
+### Solution $O(n)$ [1🔗](./O(n)_trivial.py) [2🔗](./O(n)_byhand.py)
 - You first split the string, removing unwanted spaces
-- Then you reverse the string, I've done it using 2 pointers (see `O(n)_byhand.py`)
+- Then you reverse the string, I've done it using 2 pointers (see [2🔗](./O(n)_byhand.py))
 - The you join the string back together, and return it
