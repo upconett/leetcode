@@ -14,3 +14,4 @@ Here I save my solutions to Leetcode problems with some explanations on my thoug
 - `09.04.2026` 🟨 [151. Reverse Words in a String](./151-reverse-words-in-a-string)
 - `09.04.2026` 🟨 [238. Product of Array Except Self](./238-product-of-array-except-self)
 - `10.04.2026` 🟩 [1480. Running Sum of 1d Array](./1480-running-sum-of-1d-array)
+- `10.04.2026` 🟩 [1672. Richest Customer Wealth](./1672-richest-customer-wealth)
