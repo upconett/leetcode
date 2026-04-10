@@ -1,0 +1,7 @@
+# scripts related files
+*.pyc
+.python-version
+cookies.json
+
+# common rubbish
+.DS_Store
